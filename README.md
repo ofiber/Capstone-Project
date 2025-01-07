@@ -8,7 +8,7 @@ Animations were built out with the Unity animator tool
 
 
 ## Install
-Download the full ***Capstone Project*** folder, and run the <ins>[Placeholder Title].exe</ins>
+Download/clone the project folder, and run the <ins>[Placeholder Title].exe</ins> from the ***Capstone Project*** folder.
 
 ## Screenshots
 ### Main Menu  
