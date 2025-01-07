@@ -1,7 +1,11 @@
 # Capstone-Project
-An 8-bit, Zelda-like game written in C# and developed in Unity for my senior capstone  
+An 8-bit, Zelda-like game written in C# and developed in Unity for my senior capstone
+
+## Approach
 All scripts were written in C# with Visual Studio  
 Art from opengameart and self-made  
+Animations were built out with the Unity animator tool
+
 
 ## Install
 Download the full ***Capstone Project*** folder, and run the <ins>[Placeholder Title].exe</ins>
